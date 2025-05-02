@@ -4,12 +4,10 @@
 /*    */ 
 /*    */ public enum Capes
 /*    */ {
-/*  7 */   ZEROTWO("Capes/zerotwo.png", "client/BTN_ZeroTwo.png"),
 /*  8 */   LUNAR("Capes/Lunar.png", "client/BTN_Lunar.png"),
 /*  9 */   MYLES("Capes/Myles.png", "client/BTN_Myles.png"),
 /* 10 */   NOEL("Capes/Noel.jpg", "client/BTN_Noel.png"),
 /* 11 */   STAFFCORECLIENT("Capes/StaffCoreClientCape.jpg", "client/BTN_StaffCoreClientCape.png"),
-/* 12 */   CELINA("Capes/heart.png", "client/BTN_heart.png"),
 /* 13 */   FELIX("Capes/KaktusMadeByFelix.png", "client/BTN_KaktusMadeByFelix.png"),
 /* 14 */   GREYSILLY7("Capes/Greysilly7.png", "client/BTN_Greysilly7.png");
 /*    */   
